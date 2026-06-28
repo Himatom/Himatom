@@ -74,7 +74,7 @@
 <div align="center">
   <!-- GitHub Trophies -->
   <a href="https://github.com/Himatom">
-    <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Himatom&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 <br>
@@ -82,10 +82,10 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Himatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himatom&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -97,10 +97,10 @@
   <h3>🐍 My Contribution Graph</h3>
   <picture>
     <!-- Dark mode version -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himatom/Himatom/output/github-contribution-grid-snake-dark.svg">
     <!-- Light mode version -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himatom/Himatom/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Himatom/Himatom/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
   <br>
   <i>*Note: To enable the snake animation, you will need to set up a quick GitHub Action in your profile repository.*</i>
