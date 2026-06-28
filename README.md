@@ -13,6 +13,9 @@
   <a href="https://hackerrank.com/himanshushekha59" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
+  <a href="https://codeforces.com/profile/Himanshu._.Shekhar" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
 </div>
 
 <br>
@@ -68,7 +71,7 @@
 
 <div align="center">
   <a href="https://github.com/Himatom">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Himatom&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 <br>
