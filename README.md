@@ -71,7 +71,7 @@
 
 <div align="center">
   <a href="https://github.com/Himatom">
-    <img src="https://github-profile-trophy.vercel.app/?username=Himatom&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 <br>
