@@ -1,4 +1,3 @@
-<!-- Header Section -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Himanshu%20Shekhar!&fontSize=50&fontAlignY=35&animation=twinkling&desc=Data%20Science%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=20" width="100%" />
 
 <div align="center">
@@ -18,7 +17,6 @@
 
 <br>
 
-<!-- About Me Section -->
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="60%">
@@ -39,7 +37,6 @@
 
 <br>
 
-<!-- Tech Stack Section -->
 <h2>🛠️ Technical Arsenal</h2>
 
 <p align="center">
@@ -59,7 +56,6 @@
 
 <br>
 
-<!-- Featured Projects Section -->
 <h2>🚀 Featured Work</h2>
 
 | Project | Description | Technologies Used | Link |
@@ -68,11 +64,9 @@
 
 <br>
 
-<!-- GitHub Stats Section -->
 <h2>📈 GitHub Analytics</h2>
 
 <div align="center">
-  <!-- GitHub Trophies -->
   <a href="https://github.com/Himatom">
     <img src="https://github-profile-trophy.vercel.app/?username=Himatom&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
@@ -92,18 +86,13 @@
 
 <br>
 
-<!-- Contribution Snake Animation -->
 <div align="center">
   <h3>🐍 My Contribution Graph</h3>
   <picture>
-    <!-- Dark mode version -->
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himatom/Himatom/output/github-contribution-grid-snake-dark.svg">
-    <!-- Light mode version -->
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himatom/Himatom/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Himatom/Himatom/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-  <br>
-  <i>*Note: To enable the snake animation, you will need to set up a quick GitHub Action in your profile repository.*</i>
 </div>
 
 ---
