@@ -70,24 +70,10 @@
 <h2>📈 GitHub Analytics</h2>
 
 <div align="center">
-  <a href="https://github.com/Himatom">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himatom&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-<br>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Himatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himatom&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<br>
 
 <div align="center">
   <h3>🐍 My Contribution Graph</h3>
