@@ -41,11 +41,17 @@
 <br>
 
 <h2 align="center">🛠️ Technical Arsenal</h2>
+
+<p align="center"><b>Programming Languages</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+<p align="center"><b>Data Science & Databases</b></p>
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
@@ -68,11 +74,11 @@
 
 <h2 align="center">📈 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=3" alt="GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himatom&theme=radical&hide_border=true&background=0D1117&v=3" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=4" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himatom&theme=radical&hide_border=true&background=0D1117&v=4" alt="GitHub Streak" height="195" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=3" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=4" alt="Top Languages" />
 </p>
 
 <br>
