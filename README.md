@@ -40,43 +40,45 @@
 
 <br>
 
-<h2>🛠️ Technical Arsenal</h2>
-
+<h2 align="center">🛠️ Technical Arsenal</h2>
 <p align="center">
-  <b>Programming Languages</b><br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Data Science & Databases</b><br>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 <br>
 
-<h2>🚀 Featured Work</h2>
-
-| Project | Description | Technologies Used | Link |
-|---|---|---|---|
-| 🤖 **AI Financial Advisor** | An intelligent application designed to analyze data and provide personalized financial insights. | Python, Pandas, AI | [▶️ Watch Demo](#) / [💻 Code](#) |
-
-<br>
-
-<h2>📈 GitHub Analytics</h2>
-
+<h2 align="center">🚀 Featured Work</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Himatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himatom&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <blockquote>
+    <h3>🤖 AI Financial Advisor</h3>
+    <p>An intelligent application designed to analyze data and provide personalized financial insights.</p>
+    <p>🛠️ <b>Tech Stack:</b> Python, Pandas, AI</p>
+    <a href="#"><img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+  </blockquote>
 </div>
 
+<br>
+
+<h2 align="center">📈 GitHub Analytics</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Himatom&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&v=3" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himatom&theme=radical&hide_border=true&background=0D1117&v=3" alt="GitHub Streak" height="195" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himatom&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&v=3" alt="Top Languages" />
+</p>
+
+<br>
+
+<h3 align="center">🐍 My Contribution Graph</h3>
 <div align="center">
-  <h3>🐍 My Contribution Graph</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Himatom/Himatom/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Himatom/Himatom/output/github-contribution-grid-snake.svg">
@@ -84,7 +86,7 @@
   </picture>
 </div>
 
----
+<br>
 <p align="center">
   <i>"Small, continuous improvements are the keys to staggering long-term results."</i>
 </p>
